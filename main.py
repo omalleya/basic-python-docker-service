@@ -5,6 +5,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost.spider2ybanana.com",
+    "http://localhost.spider2ybanana.com:8080",
     "https://spider2ybanana.com",
     "http://www.spider2ybanana.com",
 ]
